@@ -7,7 +7,7 @@ I'm a software engineer who's excited about great UX and clean code. I enjoy hel
 ## Experience
 
 `May 2016 - present`
-__eBay, Software Engineer__
+__eBay, Staff Engineer__
 
 Worked with Java/Kotlin in Spring(MVC | Boot)/Android, Swift in iOS and JS/TS in React/Marko. Most proud about architecting the eBay shipping web app (in React) and the native shipping experience service (in Kotlin). Created and released multiple internal tools, mentored and managed junior developers. Working closely with POs and designers to ensure that we build the right features the right way.
 
