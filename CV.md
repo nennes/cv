@@ -7,17 +7,17 @@ I'm a software engineer who's excited about great UX and clean code. I enjoy hel
 ## Experience
 
 `May 2016 - present`
-__eBay, Staff Engineer__
+__[eBay](https://www.ebay.co.uk), Staff Engineer__
 
-Worked with Java/Kotlin in Spring(MVC | Boot)/Android, Swift in iOS and JS/TS in React/Marko. Most proud about architecting the eBay shipping web app (in React) and the native shipping experience service (in Kotlin). Created and released multiple internal tools, mentored and managed junior developers. Working closely with POs and designers to ensure that we build the right features the right way.
+Worked with Java/Kotlin in Spring(MVC | Boot)/Android, Swift in iOS and JS/TS in React/[Marko](https://markojs.com). Most proud about architecting the eBay [shipping web app](https://www.businessinsider.com/how-to-print-shipping-label-on-ebay) (in React) and the native shipping experience service (in Kotlin). Created and released multiple internal tools, mentored and managed junior developers. Working closely with POs and designers to ensure that we build the right features the right way.
 
 `Apr 2017 - Dec 2018`
-__CodeYourFuture, Mentor__
+__[CodeYourFuture](https://codeyourfuture.io), Mentor__
 
-Enabled refugees to change their future through web development training and career coaching. Taught part of the curriculum, helped with 1:1 coding sessions and guided many through their successful interview journey.
+Volunteered to enable refugees change their future through web development training and career coaching. Taught part of the curriculum, helped with 1:1 coding sessions and guided many through their successful interview journey.
 
 `Oct 2012 - May 2016`
-__Fivium, Application Developer__
+__[Fivium](https://www.fivium.co.uk), Application Developer__
 
 Developed and maintained complex workflow-based systems for the UK government. Heavily used Oracle SQL, PL/SQL (for all the business logic) and XML (see [FOXopen framework](http://www.foxopen.net)). Designed and built a report generation web application, which colected production data from multiple DBs, combined them, applied statistical calculations and allowed for generating PDF reports (using Jasper templates).
 
