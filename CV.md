@@ -19,7 +19,7 @@ Volunteered to enable refugees change their future through web development train
 `Oct 2012 - May 2016`
 __[Fivium](https://www.fivium.co.uk), Application Developer__
 
-Developed and maintained complex workflow-based systems for the UK government. Heavily used Oracle SQL, PL/SQL (for all the business logic) and XML (see [FOXopen framework](http://www.foxopen.net)). Designed and built a report generation web application, which colected production data from multiple DBs, combined them, applied statistical calculations and allowed for generating PDF reports (using Jasper templates).
+Developed and maintained complex workflow-based systems for the UK government. Heavily used Oracle SQL, PL/SQL (for all the business logic) and XML (see [FOXopen framework](http://www.foxopen.net)). Designed and built a report generation web application, which collected production data from multiple DBs, combined them, applied statistical calculations and allowed for generating PDF reports (using Jasper templates).
 
 
 ## Education
