@@ -9,7 +9,7 @@ I'm a software engineer who's excited about great UX and clean code. I enjoy hel
 `May 2016 - present`
 __[eBay](https://www.ebay.co.uk), Staff Engineer__
 
-Worked with Java/Kotlin in Spring(MVC | Boot)/Android, Swift in iOS and JS/TS in React/[Marko](https://markojs.com). Most proud about architecting the eBay [shipping web app](https://www.businessinsider.com/how-to-print-shipping-label-on-ebay) (in React) and the native shipping experience service (in Kotlin). Created and released multiple internal tools, mentored and managed junior developers. Working closely with POs and designers to ensure that we build the right features the right way.
+Worked with Java/Kotlin in Spring(MVC | Boot)/Android, Swift in iOS and JS/TS in React/[Marko](https://markojs.com). Most proud about architecting the eBay [shipping web app](https://www.businessinsider.com/how-to-print-shipping-label-on-ebay) (in TS/React/Redux/Reselect) and the native shipping experience service (in Kotlin/SpringBoot). Created and released multiple internal tools, mentored and managed junior developers. Working closely with POs and designers to ensure that we build the right features the right way.
 
 `Apr 2017 - Dec 2018`
 __[CodeYourFuture](https://codeyourfuture.io), Mentor__
