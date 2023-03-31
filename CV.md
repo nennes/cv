@@ -2,14 +2,24 @@
 Cambridge, United Kingdom, [yiannis@nenn.es](mailto:yiannis@nenn.es)
 
 ## Profile
-I'm a software engineer who's excited about great UX and clean code. I enjoy helping people, sharing knowledge and solving problems. Most of my experience is in the FE with React, but I happily take on any technical challenge.
+I'm a software engineer who's excited about great UX and clean code. I enjoy a culture of helping people, sharing knowledge and delivering valuable and maintainable products. Most of my experience is in the FE with React, but I happily take on any technical challenge.
 
 ## Experience
 
-`May 2016 - present`
-__[eBay](https://www.ebay.co.uk), Staff Engineer__
+`Jan 2023 - Present`
+__[Dojo](https://dojo.tech), Software Engineer__
 
-Worked with Java/Kotlin in Spring(MVC | Boot)/Android, Swift in iOS and JS/TS in React/[Marko](https://markojs.com). Most proud about architecting the eBay [shipping web app](https://www.businessinsider.com/how-to-print-shipping-label-on-ebay) (in TS/React/Redux/Reselect) and the native shipping experience service (in Kotlin/SpringBoot). Created and released multiple internal tools, mentored and managed junior developers. Working closely with POs and designers to ensure that we build the right features the right way.
+Making Dojo [RMS](https://rms.walkup.co) (restaurant management system) simpler and more powerful, using React/GraphQL and Golang. Most proud about consolidating 3 dashboards into a unified experience, with improved UI and features.
+
+`Aug 2022 - Jan 2023`
+__[Ziglu](https://www.ziglu.io), Staff Engineer__
+
+Faced with the challenge of an overcomplicated ReactNative app, I proposed and lead the initiative to introduce a shim service. I integrated it with the event-driven BE architecture and introduced GraphQL to push updates to the app. Unfortunately the Robinhood aquisition was cancelled, and most employees were made redundant.
+
+`May 2016 - Jul 2022`
+__[eBay](https://www.ebay.co.uk), Member of Technical Staff__
+
+Built fantastic eBay experiences! Worked with Java/Kotlin in Spring(MVC | Boot)/Android, Swift in iOS and JS/TS in React/[Marko](https://markojs.com). Most proud about architecting the eBay [shipping web app](https://www.businessinsider.com/how-to-print-shipping-label-on-ebay) (in TS/React/Redux/Reselect) and the native shipping experience service (in Kotlin/SpringBoot). Created and released multiple internal tools, mentored and managed junior developers. Worked closely with POs and designers to ensure that we build the right features the right way.
 
 `Apr 2017 - Dec 2018`
 __[CodeYourFuture](https://codeyourfuture.io), Mentor__
