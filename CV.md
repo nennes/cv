@@ -6,10 +6,10 @@ I'm a software engineer who's excited about great UX and clean code. I enjoy a c
 
 ## Experience
 
-`Jan 2023 - Present`
+`Jan 2023 - Apr 2023`
 __[Dojo](https://dojo.tech), Software Engineer__
 
-Making Dojo [RMS](https://rms.walkup.co) (restaurant management system) simpler and more powerful, using React/GraphQL and Golang. Most proud about consolidating 3 dashboards into a unified experience, with improved UI and features.
+Made the Dojo [RMS](https://rms.walkup.co) (restaurant management system) simpler and more powerful, using React/GraphQL and Golang. Most proud about consolidating 3 dashboards into a unified experience, with improved UI and features.
 
 `Aug 2022 - Jan 2023`
 __[Ziglu](https://www.ziglu.io), Staff Engineer__
