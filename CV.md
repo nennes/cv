@@ -49,5 +49,5 @@ This is focused on Economics, Management and Production Technology. It gave me t
 ## Interests
 
 
-Archery, diving, hardware programming, a bit of data science.
+Mainly spending time with my amazing cat. A bit of whittling, archery, tinkering with computers.
 
