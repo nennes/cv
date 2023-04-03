@@ -9,7 +9,7 @@ I'm a software engineer who's excited about great UX and clean code. I enjoy a c
 `Jan 2023 - Apr 2023`
 __[Dojo](https://dojo.tech), Software Engineer__
 
-Made the Dojo [RMS](https://rms.walkup.co) (restaurant management system) simpler and more powerful, mainly using React/GraphQL. Most proud about consolidating 3 core pages into a unified experience, with improved UI and features. This is expected to add significant value to the app, while removing large amounts of legacy code.
+Made the Dojo [RMS](https://www.youtube.com/watch?v=-aUc30WV3y4) (restaurant management system) simpler and more powerful, mainly using React/GraphQL. Most proud about consolidating 3 core pages into a unified experience, with improved UI and features. This is expected to add significant value to the app, while removing large amounts of legacy code.
 
 `Aug 2022 - Jan 2023`
 __[Ziglu](https://www.ziglu.io), Staff Engineer__
