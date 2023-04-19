@@ -1,5 +1,5 @@
 # Yiannis Nennes
-Cambridge, United Kingdom | [about](https://dev.to/nennes) | [yiannis@nenn.es](mailto:yiannis@nenn.es)
+Cambridge, United Kingdom | [cv](https://tinyurl.com/yiannis-nennes-cv) | [about](https://dev.to/nennes) | [yiannis@nenn.es](mailto:yiannis@nenn.es)
 
 ## Profile
 I'm a software engineer who's excited about great UX and clean code. I enjoy a culture of helping people, sharing knowledge and delivering valuable and maintainable products. Most of my experience is in the FE with React, but I happily take on any technical challenge.
