@@ -6,6 +6,11 @@ I'm a software engineer who's excited about great UX and clean code. I enjoy a c
 
 ## Experience
 
+`May 2023 - Present`
+__[BrightSign](https://www.brightsign.biz/), Software Engineer__
+
+Improving the reliability and usability of BrightAuthor:connected, a 2M LOC React app for managing BrightSign players and presentations. Working with TS in React, the app is released for web and desktop (via Electron). Lead the effort for introducing observability and dynamic feature flags.
+
 `Jan 2023 - Apr 2023`
 __[Dojo](https://dojo.tech), Software Engineer__
 
@@ -49,5 +54,5 @@ This is focused on Economics, Management and Production Technology. It gave me t
 ## Interests
 
 
-Mainly spending time with my amazing cat. A bit of whittling, archery, tinkering with computers.
+Mainly spending time with my amazing cat. A bit of whittling, archery, tinkering with computers. And more recently, drone photography.
 
