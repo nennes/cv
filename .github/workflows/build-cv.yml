@@ -1,11 +1,11 @@
-name: Build CV PDF
+name: Build CV
 
 on:
   push:
 
 jobs:
   converttopdf:
-    name: Build PDF
+    name: Build PDF and DOCX
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -17,10 +17,19 @@ jobs:
           cat CV.md | md-to-pdf > "Yiannis Nennes - CV.pdf"
           echo; echo "PDF generated"
 
-      - name: Commit PDF
+      - name: Install Pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Build Docx
+        run: |-
+          pandoc CV.md -o "Yiannis Nennes - CV.docx"
+          echo; echo "DOCX generated"
+
+      - name: Commit
         run: |
           git config --global user.name "Yiannis Nennes"
           git config --global user.email "yiannis@nenn.es"
           git add "Yiannis Nennes - CV.pdf"
-          git commit -m "Build CV PDF"
+          git add "Yiannis Nennes - CV.docx"
+          git commit -m "Build CV"
           git push origin main
