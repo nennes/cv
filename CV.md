@@ -9,7 +9,9 @@ I'm a software engineer who's excited about great UX and clean code. I enjoy a c
 `May 2023 - Present`
 __[BrightSign](https://www.brightsign.biz/), Software Engineer__
 
-Improving the reliability and usability of BrightAuthor:connected, a 2M LOC React app for managing BrightSign players and presentations. Working with TS in React, the app is released for web and desktop (via Electron). Lead the effort for introducing observability and dynamic feature flags.
+* Engineered a greenfield Next.js and TypeScript SaaS platform for remote digital signage player management, unlocking new recurring revenue streams and delivering highly requested enterprise functionality.
+* Partnered cross-functionally with Product and Sales to architect a Node.js migration utility, seamlessly transitioning customer content from legacy self-hosted CMS environments to modern cloud infrastructure, driving significant operational savings.
+* Enhanced the reliability and user experience of BrightAuthor:connected—a 2M+ LOC React and Electron desktop application used for complex presentation authoring—through targeted refactoring and stability improvements.
 
 `Jan 2023 - Apr 2023`
 __[Dojo](https://dojo.tech), Software Engineer__

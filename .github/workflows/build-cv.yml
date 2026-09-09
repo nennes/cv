@@ -14,11 +14,13 @@ jobs:
         run: |-
           npm install -g md-to-pdf
           echo; echo "Generating PDF"
-          cat CV.md | md-to-pdf > "Yiannis Nennes - CV.pdf"
+          cat CV.md | md-to-pdf --launch-options='{ "args": ["--no-sandbox"] }' > "Yiannis Nennes - CV.pdf"
           echo; echo "PDF generated"
 
-      - name: Install Pandoc
-        run: sudo apt-get install -y pandoc
+      - name: Set up Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+        with:
+          pandoc-version: 'latest' # Optional: You can pin a specific version like '3.1.3'
 
       - name: Build Docx
         run: |-
